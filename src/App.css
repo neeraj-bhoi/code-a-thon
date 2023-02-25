@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  background : linear-gradient(35deg, #AAE5FF, #FCDFEE);;
+  font-family: "Fredoka", sans-serif;
+  text-align: center;
+  height: 100vh;
+}
+
+#heading {
+  margin-top:  50px;
+  font-size: 100px;
+  font-weight: 600;
+  background-image: linear-gradient(45deg, #DD00FF, #9989F2);
+  color: transparent;
+  background-clip: text;
+}
